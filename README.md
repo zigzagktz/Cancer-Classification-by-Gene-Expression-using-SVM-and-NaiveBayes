@@ -22,6 +22,6 @@ Before PCA                                           | After PCA
 
 #### 4- Here is the results after tuning
 
-![accuracy](https://user-images.githubusercontent.com/32847030/62818007-5aded500-bb0e-11e9-83b8-7a9d54c9190c.gif)
+![ccc](https://user-images.githubusercontent.com/32847030/62824773-85fa1080-bb70-11e9-9129-c7df7b8d328c.gif)
 
 ### Linear Kernal works best for SVM providing 100% accurate results
