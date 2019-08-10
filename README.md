@@ -1,4 +1,4 @@
-## Cancer Classification using Gene Expression (SVM and NaiveBayes)
+## Title: ###Cancer Classification using Gene Expression (SVM and NaiveBayes)
 
 #### 1- Result Comparision after data pre-processing and Model Implementation
 
