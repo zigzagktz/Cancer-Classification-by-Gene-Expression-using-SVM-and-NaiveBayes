@@ -1,6 +1,6 @@
 ## Cancer Classification using Gene Expression (SVM and NaiveBayes)
 
-#### 1- Result Comparision after data pre-processing and Model Implementation
+> #### 1- Result Comparision after data pre-processing and Model Implementation
 
 Before PCA                                           | After PCA
 :--------------------------------------------------------:|:---------------------------------------------------------:
