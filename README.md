@@ -6,7 +6,7 @@ Before PCA                                           | After PCA
 :--------------------------------------------------------:|:---------------------------------------------------------:
 ![cross_tab](https://user-images.githubusercontent.com/32847030/62818004-54e8f400-bb0e-11e9-866a-135f2c3c3052.GIF) | ![cross_tab2](https://user-images.githubusercontent.com/32847030/62818005-561a2100-bb0e-11e9-8fc7-d29ea920c29e.GIF)
 
-##### 2- Dimension Reduction
+#### 2- Dimension Reduction (Implementation of PCA)
 
 ![snap2](https://user-images.githubusercontent.com/32847030/62817974-c4121880-bb0d-11e9-9c20-b5830d476402.GIF)
 
