@@ -25,4 +25,4 @@ Before PCA                                           | After PCA
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/32847030/65380592-6516f600-dcac-11e9-92f3-08f22118854f.gif)
 
-### Linear Kernal works best for SVM at penalty 1 or higher. Providing approx 95% accurate results
+### Linear Kernal works best for SVM at penalty 1 or higher. Providing more than 95% accurate results
