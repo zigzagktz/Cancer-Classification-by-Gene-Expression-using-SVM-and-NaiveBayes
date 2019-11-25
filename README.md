@@ -1,7 +1,5 @@
 ## Title: Cancer Classification using Gene Expression (SVM and NaiveBayes)
-[`My blog on Support Vector Machine`](https://towardsdatascience.com/support-vector-machine-support-vector-classifier-maximal-margin-classifier-22648a38ad9c) {target=_blank}
-
-<a href="https://towardsdatascience.com/support-vector-machine-support-vector-classifier-maximal-margin-classifier-22648a38ad9c" target="_blank"> My blog on Support Vector Machine </a>
+[`My blog on Support Vector Machine`](https://towardsdatascience.com/support-vector-machine-support-vector-classifier-maximal-margin-classifier-22648a38ad9c) 
 
 #### 1- Result Comparision after data pre-processing and Model Implementation
 
